@@ -1,0 +1,8 @@
+{
+	"password": "hello i18n !!",
+	"locale": {
+		"en": "English",
+		"ar": "العربية"
+	  },
+	"login":"Login"
+}
