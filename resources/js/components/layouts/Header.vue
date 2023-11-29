@@ -18,7 +18,7 @@
 				</ul>
 			</nav>
 			<div class=" nav-logo  col-lg-2 col-md-2">
-				<a class="brand" href="index-en.php"> <img alt="Shippo" src="@/assets/image/logo.png" class="dark-logo" >
+				<a class="brand" href="index-en.php"> <img alt="Shippo" src="../../../../public/assets/image/logo.png" class="dark-logo" >
 				</a>
 			</div>
 			<div class="col-lg-5 col-md-5 d-flex justify-content-end dynamic-menu align-items-center hide_mob">
@@ -31,7 +31,7 @@
 				</a>
 			</div>
 			<div class="mobile-logo-new  nav-logo-mobile ">
-				<a class="brand" href=""> <img alt="Shippo" src="image/icon-logo.png" class="dark-logo" >
+				<a class="brand" href=""> <img alt="Shippo" src="../../../../public/assets/image/icon-logo.png" class="dark-logo" >
 				</a>
 			</div>
 			<div class="mob_header">

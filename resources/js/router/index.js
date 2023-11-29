@@ -3,6 +3,7 @@ import HomeView from '../page/HomeView.vue'
 import LoginView from '../page/Login.vue'
 import NotFound from '../page/NotFound.vue'
 import Tr from "@/i18n/translation"
+import store from '@/store'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.VITE_BASE_URL),
@@ -13,14 +14,22 @@ const router = createRouter({
       beforeEnter: Tr.routeMiddleware,
       children: [
         {
-          path: '',
-          name: 'home',
-          component: HomeView
+          	path: '',
+          	name: 'home',
+          	component: HomeView,
+			meta: {
+				middleware: "guest",
+				title: `Home`
+			}
         },
 		{
 			path: 'login',
 			name: 'login',
-			component: LoginView
+			component: LoginView,
+			meta: {
+				middleware: "guest",
+				title: `Login`
+			}
 		},
 		{
 			path: '/:pathMatch(.*)*',
@@ -29,6 +38,22 @@ const router = createRouter({
       ] 
     }
   ]
+})
+
+router.beforeEach((to, from, next) => {
+    document.title = to.meta.title
+    if (to.meta.middleware == "guest") {
+        if (store.state.auth.authenticated) {
+            next({ name: "dashboard" })
+        }
+        next()
+    } else {
+        if (store.state.auth.authenticated) {
+            next()
+        } else {
+            next({ name: "login" })
+        }
+    }
 })
 
 export default router
