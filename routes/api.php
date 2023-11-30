@@ -19,12 +19,12 @@ Route::middleware(["localization"])->group(function () {
 	Route::controller(AuthController::class)->group(function () {
 		Route::post("register", "register");
 		Route::post("login", "login");
-		Route::get("logout", "logOut");
 	});
-    Route::middleware(["auth:sanctum","ability:customer"])->group(function () {
-		Route::controller(CustomerController::class)->group(function () {
-			Route::prefix("customer")->group(function () {
+    Route::middleware(["auth:sanctum","ability:user"])->group(function () {
+		Route::controller(UserController::class)->group(function () {
+			Route::prefix("user")->group(function () {
 				Route::get("details", "details");
+				Route::get("logout", "logOut");
 			});
 		});
 	});

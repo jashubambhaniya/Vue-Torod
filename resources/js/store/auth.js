@@ -5,7 +5,8 @@ export default {
     namespaced: true,
     state:{
         authenticated:false,
-        user:{}
+        user:{},
+        token:''
     },
     getters:{
         authenticated(state){
@@ -13,6 +14,9 @@ export default {
         },
         user(state){
             return state.user
+        },
+        token(state){
+            return state.token
         }
     },
     mutations:{
@@ -21,21 +25,23 @@ export default {
         },
         SET_USER (state, value) {
             state.user = value
+        },
+        SET_TOKEN (state, value) {
+            state.token = value
         }
     },
     actions:{
-        login({commit}){
-            return axios.get('/api/user').then(({data})=>{
-                commit('SET_USER',data)
-                commit('SET_AUTHENTICATED',true)
-                router.push({name:'dashboard'})
-            }).catch(({response:{data}})=>{
-                commit('SET_USER',{})
-                commit('SET_AUTHENTICATED',false)
-            })
+        login({commit},data){
+			var user = data.data
+			var token = data.bearer_token
+			commit('SET_USER',user)
+			commit('SET_TOKEN',token)
+			commit('SET_AUTHENTICATED',true)
+			router.push({name:'dashboard'})
         },
         logout({commit}){
             commit('SET_USER',{})
+			commit('SET_TOKEN','token')
             commit('SET_AUTHENTICATED',false)
         }
     }
