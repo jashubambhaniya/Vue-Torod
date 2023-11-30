@@ -14,15 +14,16 @@ export default defineConfig({
             ],
             refresh: true,
         }),
-		vue(),
+        vue(),
 		VueI18nPlugin({
 			runtimeOnly: false,
 			  include: resolve(dirname(fileURLToPath(import.meta.url)), 'resources/js/i18n/locales/**'), // provide a path to the folder where you'll store translation data (see below)
 		})
     ],
-	resolve: {
-		alias: {
-			'~bootstrap': resolve(__dirname, 'node_modules/bootstrap'),
+    publicDir: 'public',
+    resolve: {
+        alias: {
+            '~bootstrap': resolve(__dirname, 'node_modules/bootstrap'),
 		  	'@': fileURLToPath(new URL('resources/js', import.meta.url))
 		}
 	  }

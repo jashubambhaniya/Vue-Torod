@@ -1,7 +1,4 @@
 import './bootstrap';
-import '../../public/assets/main.css'
-import '../../public/assets/css/dashboard.css'
-import '../../public/assets/css/bootstrap.css'
 import '../../public/assets/css/style-en.css'
 import '../sass/app.scss'
 

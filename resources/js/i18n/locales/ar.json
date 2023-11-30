@@ -1,8 +1,1168 @@
 {
-	"password": "こんにちは！i18n！！",
 	"locale": {
 		"en": "English",
 		"ar": "العربية"
-	  },
-	  "login":"SSSSSSSSSSSSSSSSS"
-}
+	},
+	"Home": "الرئيسية",
+	"Pricing": "الأسعار",
+	"Partners": "الشركاء",
+	"Resources": "المدونة",
+	"Login": "تسجيل دخول",
+	"Sign Up Free": "للتسجيل مجاناً",
+	"Carrier Partners": "شركاء الشحن",
+	"Technology Partners": "شركاء المتاجر الإلكترونية",
+	"Get Started Today for Free": "ابدأ اليوم مجانًا",
+	"Try It Free": "جرب مجاناً",
+	"Contact": "للتواصل",
+	"Help Center": "مركز المساعدة",
+	"Contact Us": "اتصل بنا",
+	"eCommerce Shipping Easier": "حلول ذكية لشحن  وإدارة  شحنات المتاجر الإلكترونية بأفضل الأسعار",
+	"Start Shipping Now": "ارسل شحنتك الآن",
+	"How It Works?": "آلية العمل؟",
+	"Make Your Order Ready": "جهز طلباتك",
+	"Choose Shipper": "أختر شركة الشحن المناسبة",
+	"Track Your Shipment": "تتبع شحناتك",
+	"Why Choose %PlatForm%": "لماذا %PlatForm% ؟",
+	"Connect with multiple shipping delivery services.": "الحصول على أفضل أسعار الشحن لجميع الوجهات",
+	"Single Integration.": "الربط مع شركات شحن ذات مستويات خدمة مختلفة",
+	"Enable ship from store operations.": "الربط مع اكثر من شركة شحن بخطوة واحدة",
+	"Automate your operations with easy shipping.": "المزامنة الفورية مع متجرك لجلب كافة الطلبات وإنهاء إجراءات الشحن",
+	"Access multiple same day delivery options.": "تسريع عملية اختيار الشاحن وطباعة البوالص بأتمتة الشحنات",
+	"Track all your shipping expenses in one place.": "إستعراض خيارات متعددة للتسليم في نفس اليوم.",
+	"Enhance your parcel real-time tracking.": "التعرف على جميع تكاليف الشحن والرجيع",
+	"What %PlatForm% Can Do": "جميع شحناتك في منصة واحدة",
+	"Online Store": "المتاجر الإلكترونية",
+	"Shippers": "شركات الشحن",
+	"Enter email": "أدخل البريد الإلكتروني",
+	"Password": "الرقم السري",
+	"Forgot Password?": "نسيت كلمة السر ؟",
+	"New to %PlatForm%?": "جرب %PlatForm% مجاناً ؟",
+	"Sign Up Now": "تسجيل حساب جديد",
+	"Please enter your email address": "الرجاء إدخال عنوان بريدك الإلكتروني",
+	"Reset My Password": "إعادة تعيين كلمة المرور",
+	"Please enter your new password": "الرجاء إدخال كلمة المرور الجديدة",
+	"Please enter Confirm password": "الرجاء إدخال تأكيد كلمة المرور",
+	"Change My Password": "تغيير كلمة المرور",
+	"Get Started with a Free Account": "أحصل على حساب مجاني",
+	"First name": "الاسم الأول",
+	"Please enter only alphabets.": "يجب أن تحتوي على أحرف فقط",
+	"Last name": "اسم العائلة",
+	"Company name": "اسم الشركة",
+	"Store name": "اسم المتجر",
+	"Email": "الإيميل الإلكتروني",
+	"Please enter valid Email.": "الرجاء إدخال بريد إلكتروني صحيح",
+	"Phone number": "رقم الجوال",
+	"Please enter only numbers.": "يجب أن تحتوي على أرقام فقط",
+	"Password Strength": "قوة كلمة المرور",
+	"Enter a strong password": "أدخل كلمة مرور قوية",
+	"Confirm Password": "تأكيد كلمة السر",
+	"Password don't match": "كلمة المرور غير متطابقة",
+	"By clicking Sign up for Free, you agree to %PlatForm%’s": "بإنشائك لحساب في %PlatForm% ، أنت توافق على شروط الاشتراك",
+	"Terms Of Service": "سياسات الخصوصية",
+	"and": "و",
+	"Privacy Policy": "شروط الاشتراك",
+	"Sign up for Free": "إبدء مجاناً",
+	"Already have an account?": "لدى بالفعل حساب    ؟",
+	"We Are More than Just a Shipping Partner": "أفضل وسيلة للشحن بأرخص الأسعار",
+	"Hi": "اهلا",
+	"Logout": "تسجيل الخروج",
+	"Date range": "التاريخ",
+	"Select Range": "أختر المدة",
+	"Last 7 days": "اخر ٧ أيام",
+	"Last 30 days": "اخر ٣٠ يوم",
+	"Last 60 days": "اخر ٦٠ يوم",
+	"Today's Orders": "طلبات اليوم",
+	"Total Orders": "جميع الطلبات",
+	"Balance Amount": "الرصيد المتبقي",
+	"SAR": "ريال سعودي",
+	"Recharge Now": "شحن الرصيد",
+	"Average Shipping Cost": "متوسط تكلفة الشحن",
+	"Total Cost": "مجموع تكاليف الشحن",
+	"Shipment Details": "تفاصيل الشحنة",
+	"Total Shipment": "جميع الشحنات",
+	"Ready For Pickup": "جاهز للشحن",
+	"In Transit": "جاري التوصيل",
+	"Delivered": "تم التوصيل",
+	"My profile": "الملف الشخصي",
+	"Create Shipment": "إنشاء شحنة",
+	"Notifications": "الإشعارات",
+	"Settings": "الإعدادات",
+	"Dashboard": "الرئيسية",
+	"Orders": "الطلبات",
+	"Shipments": "الشحنات",
+	"Tracking": "التتبع",
+	"Customers": "العملاء",
+	"Returns": "الرجيع",
+	"Profile": "الملف الشخصي",
+	"Plan": "الباقات",
+	"Wallet": "المحفظة",
+	"Billing & Invoices": "الفواتير",
+	"Company \\ Brand": "المتجر",
+	"Team": "الفريق",
+	"Address": "العنوان",
+	"Integration": "الربط",
+	"Connect Store": "ربط المتجر",
+	"Carriers": "شركات الشحن",
+	"API": "API",
+	"Configuration": "الضبط",
+	"Labels": "البوليصات",
+	"Package": "الطرود",
+	"Notification": "الإشعارات",
+	"Automation": "أتمتة الشحنات",
+	"Support": "الدعم",
+	"My Account": "حسابي",
+	"The password must contain": "يجب ان يحتوي الرقم السري على",
+	"Choose a payment Methods": "إختر طريقة الدفع",
+	"By using Credit Card, the value will automatically be credited; bank transfer may take several days to process.": "باستخدام بطاقة الائتمان ، سيتم إضافة القيمة تلقائيًا ؛ قد تستغرق معالجة التحويل المصرفي عدة أيام",
+	"Amount": "المبلغ",
+	"Credit Card": "بطاقة الائتمان",
+	"Bank Transaction": "التحويل البنكي",
+	"Continue": "استمرار",
+	"Sync Orders": "مزامنة الطلبات",
+	"Upload CSV": "رفع ملف",
+	"Create Order": "طلب جديد",
+	"All": "الكل",
+	"Unfulfilled": "طلب غير مكتمل",
+	"Fulfilled": "طلب مكتمل",
+	"Filters": "فلترة",
+	"ADD FILTER": "إضافة فتلر",
+	"Date": "التاريخ",
+	"Weight": "الوزن",
+	"Shipping Carrier": "الشاحن",
+	"Order": "الطلب",
+	"Create label for selected orders": "شحن الطلبات المحددة",
+	"Customer Details": "معلومات العميل",
+	"Product Details": "تفاصيل المنتج",
+	"Dimension & Weight": "الابعاد والوزن",
+	"Action": "الإجراء",
+	"WhatsApp": "WhatsApp",
+	"Name": "الاسم",
+	"SKU": "رمز المنتج",
+	"Qty": "الكمية",
+	"More Products": "المزيد من المنتجات",
+	"Volumetric": "الحجم",
+	"Kg": "كجم",
+	"Edit Package": "تعديل  الطرد",
+	"Package Info": "معلومات الطرد",
+	"Add Package": "إضافة طرد",
+	"Custom Dimensions": "تخصيص الابعاد",
+	"New package": "طرد جديد",
+	"Enter Custom Dimensions": "أدخل أبعاد مخصصة",
+	"Choose from package": "إختيار من الطرود المحفوظة مسبقا",
+	"Add New": "أَضف جديد",
+	"Dimensions": "ألابعاد",
+	"L": "الطول",
+	"W": "العرض",
+	"H": "الإرتفاع",
+	"cm": "سم",
+	"in": "انش",
+	"mm": "ملم",
+	"Enter dimensions of package": "أدخل أبعاد الطرد",
+	"Package Weight": "وزن الطرد",
+	"g": "جرام",
+	"oz": "اونصه",
+	"lb": "باوند",
+	"Use weight of items": "استخدم وز المنتج",
+	"Includes packaging": "يشمل التغليف",
+	"Cancel": "إلغاء",
+	"Save": "حفظ",
+	"Shipped": "تم الشحن",
+	"Select Courier Partner": "اختر الشاحن",
+	"CREATE ORDER BY": "إنشاء طلب بواسطة",
+	"Connect Your Store": "اربط متجرك",
+	"Select your store's e-commerce platform to connect and import orders": "اختر متجرك الإلكتروني للربط ومزامنة  الطلبات",
+	"Bulk Upload": "مجموعة شحنات",
+	"Upload multiple customers' orders in a single CSV file": "رفع عدة طلبات في ملف CSV واحد",
+	"Manual Entry": "إدخال يدوي",
+	"Create one shipping label by manually entering details": "إنشاء بوليصة شحن  مفردة واكمال البيانات",
+	"Search": "بحث",
+	"Ship Now": "اشحن الآن",
+	"Please Add Pickup and Return Address": "الرجاء إضافة عنوان الاستلام والإرجاع",
+	"Add Address": "أضف عنوان",
+	"Pickup From": "إلتقط من",
+	"Deliver To": "توصيل إلي",
+	"Order Value": "قيمة الطلب",
+	"Applied Weight": "الوزن الفعلي",
+	"Sort By": "فلترة الأسعار",
+	"Cheapest": "الأرخص",
+	"Fastest": "الأسرع",
+	"Delivery Time": "وقت التوصيل",
+	"Pick Up": "الإلتقاط",
+	"Yes": "يوجد",
+	"No": "لايوجد",
+	"Rate": "السعر",
+	"days": "أيام",
+	"Days": "أيام",
+	"Ship with": "اشحن من خلال",
+	"Purchase Label": "شراء بوليصة",
+	"Total": "المجموع",
+	"Close": "أغلاق",
+	"Confirm Purchase": "تأكيد الشراء",
+	"Download Label": "تحميل بوليصة الشحن",
+	"label has been Purchased": "تم طباعة البوليصة",
+	"SHIPPING LABEL": "بوليصة الشحن",
+	"4x6 PDF Thermal Label Printer Shipping Label": "طباعة البوليصة بإستخدام طابعة البوليصات الحرارية 4x6",
+	"Download": "تحميل",
+	"NOTIFICATIONS": "الإشعارات",
+	"Send email notification to buyer": "إرسال إشعار للعميل",
+	"Send now": "أرسل الآن",
+	"Shipment": "الشحنات",
+	"Select Order": "إختر طلب",
+	"Shipment ID": "رقم الشحنة",
+	"Shipment Date": "تاريخ الشحن",
+	"Payment": "الدفع",
+	"Shipping Cost": "تكلفة الشحن",
+	"Status": "الحالة",
+	"Order View": "عرض الطلب",
+	"Order Details": "معلومات الطلب",
+	"Invoice": "الفاتورة",
+	"Order Date": "تاريخ الطلب",
+	"Order Value & Mode": "قيمة الطلب وحالته",
+	"Courier": "الناقل",
+	"ID": "الهوية",
+	"Customer Address": "العنوان",
+	"Pickup Address": "نقطة الالتقاط",
+	"Pickup address not available. Please add address": "عنوان الاستلام غير متوفر. الرجاء إضافة العنوان",
+	"Product": "المنتج",
+	"Quantity": "الكمية",
+	"Units Price": "وحدات السعر",
+	"Units Weight": "وحدات الوزن",
+	"Discount": "الخصم",
+	"VAT": "ضريبة القيمة المضافة",
+	"Order Amount": "كمية الطلب",
+	"Amount in": "الحجم بال",
+	"Channel": "القنوات",
+	"Order Id": "رقم الطلب",
+	"Order Created on Channel At": "تم انشاء الطلب على القناة في",
+	"Order Created in System At": "تم انشاء الطلب على النظام في",
+	"Payment Method": "طريقة الدفع",
+	"EwayBill Number": "رقم الفاتورة الإلكترونية",
+	"Shipping Details": "بيانات الشحن",
+	"Dimension": "الأبعاد",
+	"Contact name": "مسؤول الإتصال",
+	"Alternate phone": "رقم جوال بديل",
+	"Address line 1": "عنوان١",
+	"Address line 2": "عنوان ٢",
+	"Pincode": "الرمز السري",
+	"City": "المدينة",
+	"Select city": "إختر مدينتك",
+	"Country": "الدولة",
+	"Locate Address": "حدد عنوان",
+	"Enter customer name": "أدخل اسم مسؤول الإتصال",
+	"Enter phone number": "أدخل رقم الجوال",
+	"Enter address": "أدخل العنوان",
+	"Enter pincode": "أدخل الرمز السري",
+	"Search your location": "إبحث عن موقعك",
+	"Shipments Tracking": "تتبع الشحنات",
+	"Brand Tracking": "تخصيص صفحة التتبع",
+	"Shipments - Last": "شحنة - لآخر",
+	"For order shipment, please check the status from the My Order page": "لشحن الطلبات ، يرجى التحقق من الحالة في صفحة طلباتي",
+	"Failed Attempt": "محاولة فاشلة",
+	"Failed Delivery": "فشل التسليم",
+	"Cancelled": "ملغي",
+	"Filter": "فلتر",
+	"Show Last Shipments": "إظهار أخر الشحنات",
+	"Show Unshipped Only": "شحنات لم يتم شحنها فقط",
+	"Filter by Carrier": "فلترة حسب الناقل",
+	"Filter by Marketplace": "فلترة حسب المتجر",
+	"All Cities": "جميع المدن",
+	"Filter by Tracking Status": "التصفية حسب تتبع الحالة",
+	"Carrier": "الناقل",
+	"Tracking Status": "حالة التتبع",
+	"Filter by start date": "تصفية حسب تاريخ الفرز",
+	"Filter by departure date": "تصفية حسب تاريخ المغادرة",
+	"Tracking No.": "رقم التتبع",
+	"To": "إلى",
+	"to": "إلى",
+	"Delivery within": "سيتم التوصيل خلال",
+	"Estimated Delivery by": "وقت التوصيل المتوقع",
+	"This shipment was sent via postal carrier offering limited tracking. For any delays, please refer to the information provided": "بعض خدمات التتبع غير متوفرة مع شركة الشحن المختارة . لأي استفسار بالإمكان التواصل من خلال",
+	"here.": "القنوات التالية",
+	"Show tracking history": "إظهار مسار التتبع",
+	"Hide tracking history": "إخفاء مسار التتبع",
+	"Result Not Available": "النتيجة غير متوفرة",
+	"Addresses": "العناوين",
+	"Save addresses you use most often to speed up your labels purchase process.": "احفظ العناوين التي تستخدمها في باستمرار لتسريع عملية شراء وطباعة بوالص\\بوليصات الشحن.",
+	"Save address you use most often to speed up your label purchase process.": "احفظ العناوين التي تستخدمها في أغلب الأحيان لتسريع عملية شراء وطباعة بوليصة الشحن.",
+	"Locations": "المواقع ( لإرسال واسترجاع الشحنات )",
+	"New Address": "عنوان جديد",
+	"Default sender address": "عنوان المرسل الافتراضي",
+	"Default return address": "عنوان الإسترجاع الإفتراضي",
+	"Edit": "تعديل",
+	"Edit Address": "تعديل العنوان",
+	"Title": "اللقب",
+	"District": "الحي",
+	"Postal Code/Zip": "عنوان البريد / الرمز البريدي",
+	"Save as default sender address": "حفظ كعنوان المرسل الافتراضي",
+	"Save as default return address": "حفظ كعنوان الإسترجاع الإفتراضي",
+	"Update": "تحديث",
+	"Apply": "تطبيق",
+	"Select the store you want to integrate.": "حدد المتجر الذي تريد ربطة.",
+	"Connect": "اربط",
+	"Connected": "تم الربط",
+	"The Orders by Customer's City": "ترتيب الطلبات بناء على أماكن تواجد العملاء",
+	"Top 5 Most  Valuable Customers": "أعلى 5 عملاء تحقيقًا للأرباح",
+	"Value": "القيمة",
+	"Filter by": "فلترة",
+	"Marketplace": "المتجر",
+	"Phone": "رقم الجوال",
+	"Company": "الشركة",
+	"Step": "خطوة",
+	"of": "خطوة",
+	"Order No.": "طلب رقم",
+	"Items": "المنتجات",
+	"Rates": "السعر",
+	"Dont buy label": "لا تطبع البوليصة",
+	"Buy Labels for all orders": "طباعة جميع البوليصات",
+	"Print Your Shipping Labels": "طباعة بوليصة الشحنات",
+	"Download Labels": "طباعة البوليصة",
+	"Start Shipment": "ابدأ الشحن",
+	"Order No.(date)": "طلب رقم ( التاريخ)",
+	"Label Status": "حالة البوليصة",
+	"Pending": "قيد المراجعة",
+	"Select Shipping Rates": "اختر سعر الشحن",
+	"Enter Title": "ادخل اللقب",
+	"Enter contact name": "ادخل اسم مسؤول الإتصال",
+	"Enter District": "ادخل اسم الحي",
+	"Enter Zipcode": "أدخل الرمز البريدي",
+	"Dear": "عزيزي \\ عزيزتي،",
+	"Please click on the button to complete the verification process": "الرجاء نقر الزر لإستكمال عملية التحقق من الحساب.",
+	"Verify Email": "تأكيد الإيميل",
+	"Kind regards": "أطيب التحيات ،",
+	"Torod": "طرود",
+	"(PlatForm)": "(PlatForm)",
+	"Copyright %date%. All Rights Reserved By": "جميع الحقوق محفوظة ل   %date%",
+	"General Information": "معلومات عامة",
+	"Channel Name": "اسم القناة",
+	"Communication Brand Name": "اسم العلامة التجارية",
+	"Brand Logo": "لوقو العلامة التجارية",
+	"Sync (Optional)": "مزامنة (اختياري)",
+	"Status to fetch": "حالة الجلب",
+	"Store Url": "عنوان Url",
+	"X-Manager token": "X-توكين مانجر",
+	"Change logo": "تغيير اللوقو",
+	"Upload logo": "رفع اللوقو",
+	"Order Statuses": "حالة الطلب",
+	"Save Store": "حفظ المتجر",
+	"Seller Panel": "لوحة البائع",
+	"Back": "رجوع",
+	"Bank": "البنك",
+	"Prepaid": "مسبق الدفع",
+	"COD": "دفع عند الاستلام",
+	"SMSA": "سمسا",
+	"Recharge successfully completed": "اكتملت عملية إعادة الشحن بنجاح",
+	"Recharge not done": "لم تتم عملية إعادة الشحن",
+	"Our team will verify the payment and the balance will be added to your wallet within 72 hours.": "سيقوم فريقنا بالتحقق من عملية الدفع وسيُضاف الرصيد تلقائيا إلى محفظتك في غضون 72 ساعة.",
+	"There was an error uploading the proof, please try again!": "حدث خطأ أثناء رفع إثبات الحوالة ، فضلاً حاول مرة أخرى!",
+	"Invalid Phone Number": "رقم الهاتف غير صحيح",
+	"Saved New Address": "تم حفظ العنوان الجديد",
+	"Address Updated": "تم تحديث العنوان",
+	"Please select Pickup Address": "الرجاء تحديد عنوان الاستلام",
+	"The order already shipped": "لقد تم شحن الطلب",
+	"Please recharge your wallet": "من فضلك اشحن محفظتك",
+	"Store Activated Successfully!": "تم ربط المتجر بنجاح !",
+	"Incorrect credentials. API Connection Error!": "المعلومات غير صحيحة. خطأ في اتصال API!",
+	"Store Updated Successfully!": "تم تحديث المتجر بنجاح!",
+	"Order Synchronization Completed": "تم مزامنة الطلبات بنجاح",
+	"Profile Activated Successfully": "تم تفعيل الملف الشخصي بنجاح",
+	"Verification Failed": "فشل في عملية التحق",
+	"You will receive an email with a link to reset your password": "لقد تم ارسال بريد إلكتروني يحتوي على رابط إعادة تعيين كلمة المرور",
+	"Password Updated Successfully": "تم تغيير كلمة المرور بنجاح",
+	"Reset Password Link Expired!": "انتهت صلاحية رابط إعادة تعيين كلمة المرور!",
+	"Verification Email Sent Successfully!": "تم إرسال ايميل التحقق بنجاح!",
+	"Profile Updated Successfully!": "تم تحديث ملفك الشخصي بنجاح!",
+	"Create New Shipment": "إنشاء شحنة جديدة",
+	"Payment method field is required.": "حقل آلية السداد إلزامي",
+	"The Address field is required.": "حقل العنوان إلزامي",
+	"Select the Order Pickup Location Details from your saved addresses": "اختر مكان التقاط الشحنة من قائمة العناوين المسجلة",
+	"Add New Address": "إضافة عنوان إلتقاط",
+	"Where is this order going to? Select a customer": "أين سيتم توصيل هذه الشحنة؟ يرجى اختيار العميل المستلم",
+	"The customer field is required.": "اختيار العميل إلزامي",
+	"Add New Customer": "إضافة عميل",
+	"Search Customers using Name, Mobile Number, Email": "البحث عن عميل باستخدام الاسم، رقم الجوال، او البريد الإلكتروني",
+	"Cash on Delivery": "الدفع عند التسليم",
+	"Items Value": "قيمة المنتجات",
+	"Enter Order Details": "تفاصيل الشحنة",
+	"Approximate Weight in KG per Box": "الوزن التقديري للمنتجات  بالكيلوجرام",
+	"Items Description (Example- Mobile Phone Accessories)": "وصف المنتجات في الطرد (مثال- اكسسوارات جوالات، عطر، ألعاب أطفال)",
+	"By checking this box I confirm that items in this shipment comply with the local legal regulation and safety measures. Any false details or shipping hazardous or illegal material will put me at legal risk.": "باختيار هذه الأيقونة أقر بأن المواد المشحونة متوافقة مع قوانين وأنظمة السلطات المحلية واشتراطات الأمن والسلامة. أقر بأني أتحمل كامل المسؤولية القانونية في حال وجود أي مواد خطرة أو قابلة للإشتعال أو غير قانونية سأتحمل شخصياً التبعات القانونية والإدارية أو الغرامات.",
+	"Here are available shippers for your order. Select a shipper and ship your item!": "يرجى اختيار الناقل لهذا الطرد ليتم إصدار بوليصة الشحن",
+	"The payment method field is required.": "حقل آلية السداد إلزامي",
+	"The confirm field is required.": "الإقرار بمحتوى المواد المشحونة إلزامي",
+	"Google Maps Coordinates": "خط الطول ودائرة العرض لخرائط قوقل",
+	"No. of Boxes": "عدد الصناديق",
+	"Recipient Details": "بيانات المستلم",
+	"Select Shipper": "اختر الناقل",
+	"Sender Details": "بيانات المرسل",
+	"Submit": "إرسال",
+	"Full Nme": "الاسم الكامل",
+	"State": "ولاية",
+	"Wallet Balance": "الرصيد",
+	"Wallet History": "سجل العمليات",
+	"Promo Code": "الرمز الترويجي",
+	"Your current balance": "الرصيد الحالي",
+	"Select": "تحديد",
+	"Spending": "الصرف",
+	"Charging": "الإيداع",
+	"Date & Time": "التاريخ والوقت",
+	"Type": "نوع العملية",
+	"Details": "التفاصيل",
+	"Payment Methods": "طرق الدفع",
+	"Add a credit card to get started with %PlatForm%": "أضف بطاقة ائتمان لبدء استخدام %PlatForm%",
+	"Add Credit Card": "إضافة بطاقة ائتمان",
+	"Have a promo code? Lucky you! Enter it here": "لديك رمز ترويجي؟ استخدمه الآن",
+	"Pending Labels & Refund": "تسميات معلقة واسترداد",
+	"Tracking Number": "رقم التتبع",
+	"Label Amount": "مبلغ التسمية",
+	"will be available soon": "ستتوفر هذه الميزة قريبًا ، ترقبوا!",
+	"To connect your store to your %PlatForm% account please follow the below instructions": "لربط متجرك بحساب %PlatForm% الخاص بك، يرجى اتباع التعليمات التالية",
+	"From the main screen go to": "من الشاشة الرئيسية ، انتقل إلى",
+	"Find the e-commerce platform you’re using and click on": "ابحث عن منصة التجارة الإلكترونية التي تستخدمها ثم قم بالنقر على",
+	"On the next screen click on": "في الصفحة التالية ، قم بالنقر على",
+	"Connect Salla Store": "اربط متجر سلة،",
+	"Connect Zed Store": "اربط متجر زد،",
+	"to complete the authentication process": "لإتمام عملية المصادقة",
+	"After clicking": "بعد النقر على",
+	"you’ll be directed to Salla Website.Log in using your store’s log-in information": "قم بتسجيل الدخول الى حساب متجرك في سلة",
+	"After logging in review the permissions then click": "في الصفحة التالية ، قم بالنقر على",
+	"Permit Grant": "منح التصريح",
+	"Merchants can connect as many stores as they want and manage all of them from one single screen": "لقد تم الان ربط متجرك على منصة طرود",
+	"does not ship to": "لا تشحن إلى",
+	"Please select the pickup address": "الرجاء تحديد عنوان الاستلام",
+	"Something went wrong": "هناك خطأ ما",
+	"Enter name": "دخل الاسم",
+	"Types of business": "وع العمل",
+	"Merchant": "ركة نقل",
+	"Message": "لرسالة",
+	"Shipping Rules": "خصائص الشحن",
+	"Create New Rule": "انشاء خاصية اتمتة جديدة",
+	"Rule description": "وصف خاصية الشحن",
+	"Last Modified": "آخر تعديل",
+	"Create Automation Rule": "إنشاء خاصية لأتمتة الشحنات",
+	"Rule name": "خاصية الشحن",
+	"Description": "وصف خاصية الشحن",
+	"Add Condition": "أضافة شرط",
+	"Add Action": "إضافة إجراء",
+	"If": "إذا",
+	"And": "وكذالك",
+	"Then": "فقم بتنفيذ",
+	"Are you sure": "هل أنت واثق",
+	"are you sure you want to delete this": "هل أنت متأكد أنك تريد حذف هذا",
+	"Delete": "حذف",
+	"Select order property": "إختر خصائص الشحنة",
+	"Order weight": "الوزن",
+	"Shipping destination": "الوجهة",
+	"Selling price": "سعر الشحنة",
+	"Select action": "إختيار إجراء",
+	"Assign courier": "إختر شركة الشحن",
+	"Use this courier": "إختر شركة شحن محددة",
+	"Never use this courier": "ا تستخدم شركة الشحن",
+	"Success": "نجاح",
+	"OK": "نعم",
+	"Price": "السعر",
+	"The automation rule was deleted successfully": "تم حذف قاعدة الأتمتة بنجاح",
+	"Automation rule created successfully": "تم إنشاء قاعدة الأتمتة بنجاح",
+	"Automation rule updated successfully": "تم تحديث قاعدة الأتمتة بنجاح",
+	"Not Ship because of no Shipment Rules": "لم يتم الشحن بسبب عدم وجود قواعد الشحن",
+	"Not Ship because of not Merchant Address": "لم يتم الشحن بسبب عدم عنوان التاجر",
+	"Not Ship because of no Rules Match": "لم يتم الشحن بسبب عدم وجود قواعد مطابقة",
+	"Not Ship because of error in all carriers": "لا يتم الشحن بسبب خطأ في جميع شركات النقل",
+	"Not Ship because of no Carriers Found": "لم يتم الشحن بسبب عدم العثور على ناقلات",
+	"Not Ship because of over weight": "لا تشحن بسبب الوزن الزائد",
+	"Not Ship because lower wallet amount": "لا تشحن لأن مبلغ المحفظة أقل",
+	"Not Ship because this shipment already shipped": "لم يتم الشحن لأن هذه الشحنة تم شحنها بالفعل",
+	"Not Ship because Delex not ship with other cities OR Payment method is COD": "لا تشحن لأن Delex لا تشحن مع مدن أخرى أو أن طريقة الدفع هي COD",
+	"Not Ship because JFL-EX not ship with other cities OR Payment method is COD": "لا تشحن لأن JFL-EX لا تشحن مع مدن أخرى أو أن طريقة الدفع هي COD",
+	"Use your existing contracts or discounted %PlatForm% rates.": "استخدم عقودك الحالية أو أسعار %PlatForm% المخفضة.",
+	"Carrier Status Updated": "تم تحديث حالة الناقل",
+	"I Agree to": "أوافق على",
+	"Terms & Conditions": "البنود و الظروف",
+	"Please Enable Carriers To Ship Orders": "يرجى تمكين شركات النقل لشحن الطلبات",
+	"Enable Carrier": "تمكين الناقل",
+	"Branding": "العلامة التجارية",
+	"Your branding assets will help customize your tracking pages and emails for your customers sent from %PlatForm%": "تساعد أصول علامتك التجارية في تخصيص صفحات التتبع ورسائل البريد الإلكتروني لعملائك المرسلة من %PlatForm%",
+	"Your Logo": "شعار علامتك التجارية",
+	"Company Details": "تفاصيل الشركة",
+	"Email id": "البريد الإلكتروني",
+	"Website URL": "رابط الموقع",
+	"Brand Color": "لون العلامة التجارية",
+	"Social Media Accounts": "حسابات التواصل الاجتماعي",
+	"Facebook URL": "رابط الفيس بوك",
+	"Instagram URL": "رابط الإنستقرام",
+	"Twitter URL": "رابط تويتر",
+	"LinkedIn URL": "رابط لينكد إن",
+	"Snapchat URL": "رابط السناب تشات",
+	"YouTube URL": "رابط اليوتيوب",
+	"Saved Company/Brand Detail": "تفاصيل الشركة / العلامة التجارية المحفوظة",
+	"Collected": "تم الالتقاط",
+	"Failed to delivered": "فشل التوصيل",
+	"Holiday/Weekend Closed": "مغلق للعطلة \\ عطلة نهاية الأسبوع",
+	"Delay beyond Control": "تأخير لظروف خارجية",
+	"Unable to Collect Charges": "لم نتمكن من تحصيل الرسوم",
+	"Consignee Unable to Pay Custom Duty": "المستلم غير قادر على سداد الرسوم الجمركية",
+	"Waiting Duty Info / Status": "بانتظار تحديث البيان الجمركي",
+	"Departed Facility": "غادر المستودع",
+	"Miss sort": "لم يتم الفرز",
+	"Recipient not available at residence": "المستلم غير متواجد في عنوان التوصيل",
+	"Out for Delivery": "خارج للتوصيل",
+	"Under Processing": "قيد المعالجة",
+	"Picked Up": "تم الإلتقاط",
+	"Refused Delivery": "رفض التسليم",
+	"At SMSA Retail Center": "في فرع سمسا",
+	"Returned to shipper": "تمت الإعادة للمرسل",
+	"Improper / Missing Regulatory Paperwork": "المستورد \\ مستندات ناقصة",
+	"Customer Broker Clearance": "التخليص الجمركي",
+	"Departed country": "غادرت",
+	"Telephone No Response": "لا يوجد رد على الهاتف",
+	"Delivery Arranged": "تمت جدولة التوصيل",
+	"Clearance Delay": "تأخير في التخليص الجمركي",
+	"Held for Address Validation": "موقفة لتحديث بيانات عنوان المستلم",
+	"At SMSA Facility": "في منشأة سمسا",
+	"Customer Requested Future Delivery": "إعادة جدولة التوصيل بناء على طلب العميل",
+	"Change delivery address": "تغيير عنوان التوصيل",
+	"Tracking Page": "صفحة التتبع",
+	"Upload your branding assets to customize your tracking pages below": "قم بتحميل شعار علامتك التجارية لتخصيص صفحات التتبع بالأسفل",
+	"Preview": "مراجعة",
+	"Estimated Arrival": "طلبك هو جاري التوصيل",
+	"See Tracking Details": "انظر تفاصيل التتبع",
+	"Hide Tracking Details": "أخفاء تفاصيل التتبع",
+	"Customization": "تخصيص",
+	"Shipment Tracking url": "الرابط الإلكتروني لتتبع الشحنة",
+	"Brand": "علامة تجارية",
+	"Customize header color on our": "قم بتخصيص لون أعلى الصفحة في",
+	"branding page": "صفحة العلامة التجارية",
+	"and we'll automatically apply those element to your tracking pages": "الخاصة بنا وسنقوم تلقائيًا بتطبيق هذا العنصر على صفحات التتبع الخاصة بك",
+	"Advertising": "الدعاية",
+	"Connect with your customers by adding a clickable Advertising to your tracking pages": "تواصل مع عملائك عن طريق إضافة إعلان قابل للنقر إلى صفحات التتبع الخاصة بك",
+	"Add Now": "أضف الأن",
+	"Enter url": "أدخل الرابط",
+	"Sample Tracking Page": "نموذج لصفحة التتبع",
+	"Keep your customers informed with shipment notifications": "ضبط التنبيهات حول حالات الشحنات وإشعار العملا",
+	"Customer Notification": "إشعار العملا",
+	"My Notification": "إشعاراتي",
+	"Customer Notifications": "إشعار العملا",
+	"Send tracking email to my customers": "إرسال بريد إلكتروني للعملاء للتبع الشحنة",
+	"Email preview": "إستعراض صيغة الإيميل",
+	"Send confirmation email to customers when shipment has been delivered": "إرسال بريد إلكتروني للعملاء بعد استلام الشحنة بنجاح",
+	"Edit template": "تعديل القالب",
+	"Tracking Email": "تتبع البريد الإلكتروني",
+	"Email subject": "موضوع البريد الإلكتروني",
+	"Email heading": "عنوان البريد الإلكتروني",
+	"Inner content": "المحتوى الداخلي",
+	"Back to template": "العودة للقالب",
+	"My Notifications": "إشعاراتي",
+	"Pick-up attempt failed": "فشل في إلتقاط الشحنة",
+	"Notify me when a pick up trail failed": "الإشعار في حال فشل شركة الشحن في إلتقاط الشحنة من التاجر",
+	"Pick-up attempt success": "تم إلتقاط الشحنة بنجاح",
+	"Notify me when a shipment has been picked up by the courier": "الإشعار في حال إلتقاط شركة الشحن للشحنة من التاجر",
+	"Failed delivery attempt": "محاولة فاشلة لتسليم الشحنة للعميل",
+	"Notify me when a delivery attempt failed": "الإشعار في حال وجود محاولة فاشلة لتسليم الشحنة للعميل ( العميل لا يرد ، الجوال مغلق ، تعذر الوصول ،... )",
+	"Delayed shipment": "تأخر الشحنة",
+	"Notify me when any shipment got delayed": "الإشعار في حال تأخر الشحنة عن عدد محدد من الأيام يحدده التاجر",
+	"Please specify the number of days where you want the shipment to be considered as delayed": "يرجى تحديد عدد الأيام التي تريد اعتبار الشحنة فيها متأخرة",
+	"Inside City": "داخل المدينة",
+	"Domestic": "داخلي",
+	"International": "دولي",
+	"Select days": "حدد الأيام",
+	"Public URL": "رابط عام",
+	"Generate Link": "إنشاء ارتباط",
+	"Copied Successfully!": "تم النسخ بنجاح!",
+	"Your order is": "طلبك هو",
+	"Your order is In Transit": "طلبك في العبور",
+	"Based on conditions that you specify, automation rules automatically apply shipping selections to newly imported orders on your behalf (from either your connected stores or .csv import).": "من خلال خاصية اتمتة الشحنات ستتمكن من تسريع عمليات الشحن المستقبلية بتخصيص طريقة معينة للشحن أو اختيار شركة شحن معينة حيث ستتمكن من تقسيم الشحنات لفئات حسب الوزن والسعر والوجهة مما يضمن عدم تكرار عمليات الفلترة والبحث أثناء اختيار الشاحن .",
+	"To learn more, visit our": "والبحث أثناء اختيار الشاحن",
+	"Automations Rules Support Article": "أتمتة الشحنات",
+	"or": "أو",
+	"FAQ.": "الأسئلة الأكثر شيوعاً",
+	"Tip": "تنبيه",
+	"Automation rules run in sequence from top to bottom so that while multiple actions can apply to an order, the first of the same type of action (e.g. Assign Package) will apply. Drag and drop to reorder your automation rules.": "أتمتة الشحنات تعمل على تطبيق الخصائص بالترتيب ، فيتم تطبيق الخاصية الأولى ثم الإنتقال للخاصية التالية",
+	"No Records Found!": "لا توجد سجلات!",
+	"Not seeing what you need? Let our product team know.": "لم تتمكن من إيجاد ماتبحث عنه ، يرجى التواصل معنا",
+	"Name your rule, e.g. 'less than 3lbs'": "يرجى تسمية خاصية الشحن مثلا ( الشحنات الأكبر من ١٥ كيلو )",
+	"Add a description (optional)": "أضف وصف للخاصية ليسهل العودة لها مستقبلا ( اختياري )",
+	"Choose from the conditions below to automatically apply actions to incoming orders. Orders must meet ALL conditions for an action to be applied.": "إختر من الشروط أدناه ليتم تطبيق الإجراء الذي سيتم اختيارة للشحنات المستقبلية.يجب أن يتم تحقق الشروط المختارة في الشحنة حتى يتم تطبيق الإجراء",
+	"Mobile number": "رقم الهاتف المحمول",
+	"Track your order": "تتبع طلبك",
+	"Fill in your mobile number": "أدخل رقم هاتفك المحمول",
+	"All orders": "جميع الطلبات",
+	"Track order": "تتبع الشحنة",
+	"Shiping Company": "شركة شحن",
+	"Sunday": "الأحد",
+	"Monday": "الاثنين",
+	"Tuesday": "الثلاثا",
+	"Wednesday": "الأربعاء",
+	"Thursday": "يوم الخميس",
+	"Friday": "جمعة",
+	"Saturday": "السبت",
+	"January": "يناير",
+	"February": "شهر فبراير",
+	"March": "يمشي",
+	"April": "أبريل",
+	"May": "مايو",
+	"June": "يونيه",
+	"July": "يوليو",
+	"August": "أغسطس",
+	"September": "سبتمبر",
+	"October": "اكتوبر",
+	"November": "شهر نوفمبر",
+	"December": "ديسمبر",
+	"Label Number": "رقم التسمية",
+	"Order Number": "رقم الأمر",
+	"Clear": "مسح",
+	"The shipment weight exceeds eligible weight for parcel logistics. Please contact sales for assistance with your shipment.": "الوزن اكثر من الحد المسموح. يرجى الاتصال بخدمة العملاء للمساعده في عمل الشحنه",
+	"does not support Cash on Delivery": "لا تقدم خدمة الدفع عند الاستلام",
+	"The city name": "مدينة",
+	"can’t be identified as the same city appears in different regions of KSA. To proceed with the shipment creation get the address details from the customer and then create a manual order.": "غير قابلة للشحن، حيث أن هذه المدينة موجودة في أكثر من منطقة إدارية. للإستمرار بعملية شحن هذا الطلب، نأمل الحصول على بيانات الشحن الصحيحة من العميل ومن ثم إنشاء شحنة بالنقر هنا",
+	"Location": "العنوان",
+	"Change Email": "تحديث البريد الالكتروني",
+	"Invalid E-Mail": "البريد الإلكتروني غير صحيح",
+	"No Customer Found": "لا يوجد عملاء",
+	"Please Choose the payment type": "يرجى اختيار طريقة السداد",
+	"Must be greater than 600": "يجب أن يكون الرقم المدخل أعلى من ٦٠٠",
+	"Must not be greater than 50,000": "الحد الأقصى هو ٥٠,٠٠٠",
+	"Must be multiple of 100": "يجب أن يكون من مضاعفات الـ ١٠٠",
+	"can’t be located in the system. Kindly, contact customer support to proceed with the shipment.": "غير معرّفة في النظام. للاستمرار بشحن هذا الطلب، يرجى التواصل مع خدمة العملا.",
+	"Not Ship because Wadha not ship with other cities": "لا تشحن لأن Wadha لا تشحن مع مدن أخرى",
+	"Bank Details": "البيانات البنكية",
+	"Bank Name": "اسم المصرف",
+	"Account Name": "اسم المؤسسة \\ الحساب",
+	"IBAN#": "رقم الآيبان#",
+	"Upload IBAN": "رفع خطاب الآيبان",
+	"COD Order amount is limited to 5,000": "الحد الأقصى لطلبات الدفع عند الإستلام هو ٥,٠٠٠ ريال سعودي",
+	"COD Order amount is limited to": "الحد الأقصى لطلبات الدفع عند الإستلام هو",
+	"We can’t process your COD order": "لا يمكن إتمام هذا الطلب",
+	"You have reached your COD limit": "لقد وصلت للحد الأقصى المسموح لشحنات السداد عند التسليم",
+	"Label not found!": "حدث خلل أثناء طباعة البوليصة",
+	"Bank details were saved successfully!": "تم حفظ البيانات البنكية بنجاح",
+	"Approximate Weight": "الوزن التقديري",
+	"Item Description": "وصف المنتجات",
+	"Search & Select an Address": "ابحث ضمن عناوين الالتقاط الخاصة بك",
+	"OR": "ترغب بإضافة عميل آخر؟",
+	"No Address Found": "لا يوجد عنوان",
+	"Full Name": "اسم العميل",
+	"Enter full name": "اسم العميل",
+	"Enter state": "المنطقة \\ المحافظة",
+	"Cash Collected": "تم التحصيل",
+	"Transferred": "تم التحويل",
+	"OR Add another address": "ترغب بإضافة عنوان إلتقاط آخر؟",
+	"OR Add a new customer": "ترغب بإضافة عميل آخر؟",
+	"Your wallet balance is not sufficient to ship with": "رصيدك غير كافي للشحن مع",
+	"Import CSV": "استيراد ملف البيانات",
+	"Uploading a CSV is easy! See steps below, or visit our CSV Tutorial FAQ page for more in-depth instructions.": "رفع ملف بيانات جديد CSVبسهولة  ! إتبع الخطوات بالاسفل،أو قم بزيارة العرض التوضيحي الخاص بنا  وصفحة الأسئلة والاجوبة لتعليمات تفصيلية أكثر",
+	"Format your spreadsheet": "نسيق جدول البيانات الخاص بك",
+	"For best results, make sure your first row is all of your headers, second row is a single order and its details, and dates are formatted YYYY-MM-DD.": "للحصول على أفضل النتائج ، تأكد من أن الصف الأول لجدول البيانات يحتوي على جميع العناوين الصحيحة ، وأن الصف الثاني عبارة عن طلب واحد وتفاصيله ، والتاريخ بتنسيق YYYY-MM-DD.",
+	"Download this": "👈 قم بتنزيل",
+	"sample spreadsheet": "موذج جدول بيانات",
+	"to see an example of an optimal layout.": "مشاهدة مثال على التخطيط الأمثل.",
+	"Visit our FAQ page for more": "قم بزيارة صفحة الأسئلة الشائعة لمزيد من",
+	"requirements and tips": "لمتطلبات والنصائح",
+	"Prepare your file": "تجهيز الملف الخاص بك",
+	"You can export a CSV file from any spreadsheet tool (such as Excel or Google Sheets). You can do this by selecting": "مكنك تصدير جدول بيانات CSV من أي أداة جداول بيانات (مثل Excel أو جداول بيانات Google). يمكنك القيام بذلك عن طريق تحديد",
+	"Download, Export To": "نزيل",
+	"Save As": "فظ باسم",
+	"CSV.": "CSV.",
+	"Now that your CSV is formatted and ready to go, upload it it below.": "لآن بعد أن تم تنسيق جدول البيانات CSV الخاص بك وأصبح جاهزًا للعمل ، قم بتحميله بالظغط علي الزر أدناه.",
+	"Drag File Here": "إسحب ملف إلى هنا",
+	"Select file": "إختيار ملف",
+	"Please select the file or paste data on the box": "الرجاء تحديد الملف أو لصق البيانات في المربع",
+	"File upload": "تحميل الملف",
+	"Upload file": "رفع الملف",
+	"Paste data": "لصق البيانات",
+	"Customer name is required": "اسم العميل مطلوب",
+	"Customer email is required": "البريد الإلكتروني للعميل مطلوب",
+	"Customer mobile number is required": "رقم الهاتف المحمول للعميل مطلوب",
+	"Delivery address is required": "عنوان التسليم مطلوب",
+	"City name is required": "اسم المدينة مطلوب",
+	"Order total is required": "إجمالي الطلب مطلوب",
+	"Payment is required": "الدفع مطلوب",
+	"Product weight is required": "وزن المنتج مطلوب",
+	"No of boxes is required": "عدد الصناديق مطلوب",
+	"Item description is required": "وصف المنتج مطلوب",
+	"Customer name must contain letters and spaces only": "يجب أن يحتوي اسم العميل على أحرف ومسافات فقط",
+	"Invalid E-mail format": "البريد الإلكتروني للعميل غير صالح",
+	"Customer mobile number is not valid": "رقم هاتف العميل غير صالح",
+	"Delivery address is not found": "لم يتم العثور على عنوان التسليم",
+	"City is not found": "لم يتم العثور على المدينة",
+	"The total of the order must be a numeric value": "إجمالي الطلب يتطلب قيمة رقمية فقط",
+	"Payment is must be COD/Bank/Prepaid": "الدفع يجب أن يكون مسبق الدفع/حوالة بنكية/الدفع عند الاستلام",
+	"The product weight must be a numeric value": "وزن المنتج يتطلب قيمة رقمية فقط",
+	"No. of boxes must not exceed 1": "عدد الصناديق المسموح بها يجب ان لا يتجاوز",
+	"(PlatForm) Plus": "(PlatForm) بلس",
+	"Paste copied data": "الصق البيانات المنسوخة",
+	"Line No.": "سطر رقم",
+	"Does not allow the count of boxes requested": "لا تدعم عدد الصناديق المطلوبة",
+	"Rejected": "طلب مرفوض",
+	"Contact Name": "مسؤول الإتصال",
+	"Phone Number": "رقم الجوال",
+	"No Addresses Found": "لا يوجد لديك عناوين محفوظة",
+	"Active": "نشط",
+	"In Active": "غير نشط",
+	"Enter branches & warehouses name": "اسم الفرع او المستودع",
+	"Enter branch or warehouse name": "أدخل اسم الفرع أو المستودع",
+	"Warehouses Code": "رمز الفرع او المستودع",
+	"Enter warehouses code": "ادخل رمز الفرع او المستودع",
+	"does not pick up from": "لا تلتقط من",
+	"Address status updated successfully": "تم تحديث حالة المستودع بنجاح",
+	"Track Order": "تتبع الطلب",
+	"Client ID": "Client ID",
+	"Client Secret": "Client Secret",
+	"Client id is required": "Client id is required",
+	"Client secret is required": "Client secret is required",
+	"Invalid connection details. Please contact to %PlatForm% support!": "بيانات التحقق غير مطابقة، يرجى التواصل مع فريق %PlatForm% للدعم التقني",
+	"This field is required.": "هذا الحقل إجباري",
+	"Warehouses Name": "اسم المستودع",
+	"No district found": "لا توجد نتائج بحث",
+	"1. Direct Connect": "١. ربط مباشر",
+	"2. Connect using a Private App": "٢. ربط باستخدام تطبيق خاص",
+	"Salla Store": "متجر سلة",
+	"Convert to Wallet Balance": "تحويل إلى رصيد المحفظة",
+	"COD transferred successfully.": "تم تحويل الرصيد بنجاح",
+	"Order Type": "قناة الطلب",
+	"Manual": "شحنة منشأة ذاتياً",
+	"Zid": "زد",
+	"ZID": "زد",
+	"Salla": "سلة",
+	"SALLA": "سلة",
+	"Custom Amount": "مبلغ آخر",
+	"Balance": "الرصيد",
+	"Problem when cancel the shipment": "حدث خلل أثناء إلغاء البوليصة",
+	"Cancel & Refund": "إلغاء البوليصة واسترداد المبلغ",
+	"Zid Store": "متجر زد",
+	"Connect SALLA Store": "ربط متجر سلة",
+	"Magento Store": "ماجنتو",
+	"Magento": "ماجنتو",
+	"Connect Magento Store": "ربط متجر ماجينتو",
+	"MAGENTO": "ماجنتو",
+	"WOOCOMMERCE": "ووكوميرس",
+	"SHOPIFY": "شوبيفاي",
+	"WooCommerce": "ووكوميرس",
+	"Shopify": "شوبيفاي",
+	"WooCommerce Store": "متجر ووكوميرس",
+	"Connect WooCommerce Store": "ربط متجر ووكوميرس",
+	"Disconnect": "قطع الارتباط",
+	"Connected Successfully!": "تم الربط بنجاح",
+	"Disconnected Successfully!": "تم قطع الارتباط بنجاح",
+	"Please add at least 1 address or set at least 1 address as a default sender address with active.": "يجب تفعيل عنوان واحد على الأقل في قائمة العناوين",
+	"Problem when test connection please try again!": "حدث خطأ أثناء الاختبار، يرجى التحقق من المدخلات والمحاولة مرة أخرى",
+	"(PlatForm) Discounted Couriers": "عقود (PlatForm)",
+	"Bring Your Own Contract": "فعل عقدك",
+	"Coming Soon": "ستكون هذه الخاصية متاحة قريباً",
+	"Disconnected": "غير مفعل",
+	"Returned": "مرتجع",
+	"Consumer key": "Consumer key",
+	"Consumer secret": "Consumer secret",
+	"Website Url": "رابط الموقع",
+	"Website url is required": "رابط الموقع حقل إلزامي",
+	"Website url is not valid": "يرجى ادخال رابط الموقع بصيغة صحيحة",
+	"Consumer key is required": "Consumer key is required",
+	"Consumer secret is required": "Consumer secret is required",
+	"WooCommerce store connected successfully!": "تم ربط المتجر بنجاح",
+	"Problem when connecting with WooCommerce. Please check your WooCommerce credentials.": "يرجى التحقق من صحة البيانات المدخلة",
+	"Problem when ship with the carrier. Please try again!": "حدث خلل أثناء طباعة البوليصة. يرجى إعادة المحاولة أو التواصل مع الدعم في حال تكرار المشكلة",
+	"Disable": "غير مفعل",
+	"Enable": "تفعيل",
+	"Auto Print Label": "طباعة البوالص آلياً",
+	"No Labels available": "لا توجد بوالص",
+	"Select a option": "حدد الخيار",
+	"Print labels for specific rule": "طباعة بوالص لأمر أتمة",
+	"Print for specific shipper": "طباعة بوالص شركة بناء على شركة الشحن",
+	"Print for specific date range": "طباعة البوالص حسب الفترة الزمنية",
+	"Select Rule": "حدد الأمر",
+	"Select End Date": "تاريخ النهاية",
+	"Select Start Date": "تاريخ البدء",
+	"Reday For Pickup": "جاهز للشحن",
+	"Failed To Deliver": "فشل التوصيل",
+	"Failed To Attempt": "محاولة فاشلة",
+	"RTO": "RTO",
+	"Select a status": "اختر الحالة",
+	"Select an district": "اختر المنطقة \\ الحي",
+	"Searching...": "يبحث...",
+	"Loading more results...": "جاري تحميل نتائج البحث ...",
+	"No cities found": "لم يتم العثور على مدن",
+	"Select an City": "اختر مدينة",
+	"Select a Country": "اختر الدولة",
+	"No Country Found": "لا توجد نتائج",
+	"Edit Delivery Address": "تعديل عنوان العميل",
+	"Order Not Found": "لا توجد نتائج",
+	"Delivery address updated successfully": "تم تحديث العنوان بنجاح",
+	"Results per page": "طلب لكل صفحة",
+	"Filter by date range": "فرز حسب تاريخ الطلب",
+	"Back to": "العودة إلى",
+	"Passwords does not match!": "كلمة المرور وتأكيد كلمة المرور غير متطابقين",
+	"Re-Captcha Field is required.": "حقل التحقق إلزامي",
+	"Please verify your email.": "يرجى التحقق من البريد الإلكتروني",
+	"Summary": "الملخص",
+	"Connect Zid Store": "ربط متجر زد",
+	"Do you want to add insurance for": "هل ترغب بإضافة تأمين؟",
+	"Mnasati": "منصتي",
+	"MNASATI": "منصتي",
+	"Mnasati Store": "متجر منصتي",
+	"Connect Mnasati Store": "ربط متجر منصتي",
+	"Manually": "يدويا",
+	"Your Shipping request is created": "تم انشاء شحنتك بنجاح",
+	"You can view the status of the shipment in the Tracking Page.": "لمعرفة المزيد من التفاصيل، يرجى التوجه لصفحة التتبع",
+	"Track": "تتبع",
+	"My Profile": "الملف الشخصي",
+	"Automations": "أتمتة الشحنات",
+	"The email or password isn't correct": "البريد الإلكتروني أو كلمة السر غير صحيحة",
+	"Thanks for your registration, Please verify your account by clicking on the link that sent to your Email.": "يرجى الضغط على الرابط المرسل لبريدكم الإلكتروني لتفعيل الحساب",
+	"confirm": "تأكيد",
+	"Image type must be in jpeg, jpg, png": "صيغ الصور المسموحة هي png و jpg",
+	"Filter by Payment Method": "فرز حسب طريقة الدفع",
+	"Country/City": "الدولة / المدينة",
+	"Region": "المنطقة",
+	"Filter by Orders": "فرز برقم الطلب",
+	"Please check this box if you want to proceed.": "للاستمرار، يرجى قبول سياسة الاستخدام",
+	"Cold": "مبرد",
+	"Quick": "سريع",
+	"Normal": "جاف",
+	"Promo code is not valid!": "الرمز الترويجي غير صحيح",
+	"The promo code already redeem": "هذا الرمز مستخدم سابقاً",
+	"Discount for": "خصم إلى",
+	"Promo code has expired.": "هذا الرمز منتهي الصلاحية",
+	"Promo code redeem successfully": "تم تطبيق الخصم",
+	"Completed": "مكتمل",
+	"MYCN": "MYCN",
+	"MYCN Store": "MYCN متجر",
+	"Connect MYCN Store": "ربط متجر MYCN",
+	"Deactive": "غير نشط",
+	"Activate": "تفعيل",
+	"Deactivate": "إلغاء التفعيل",
+	"Promo Code History": "سجل الرموز الترويجية",
+	"1 label has been Purchased": "تم تصدير عدد (1) من البوالص بنجاح",
+	"send an email to the customer": "إرسال إشعار للعميل",
+	"Export": "تصدير",
+	"Please upload a valid proof of payment file": "حدث خلل أثناء عملية رفع الملف. يرجى رفع الملف بصيغة pdf",
+	"Are you sure cancel the order or change the shipping company? (Cancelling the shipping label will result in canceling the order on (Zid/Salla) Store. You can change the shipping carrier.)": "إلغاء البوليصة قد يتسبب بإلغاء الطلب على المتجر (زد/سلة). لتفادي هذه المشكلة، يمكنك تغيير الناقل دون إلغاء الطلب.",
+	"Change Shipping Carrier": "تغيير شركة الشحن",
+	"Cancel Custom Button": "إلغاء الطلب",
+	"Weight is required": "مطلوب الوزن",
+	"Makane": "مكاني",
+	"MAKANE": "مكاني",
+	"Connect Makane": "ربط متجر مكاني",
+	"Makane Store": "متجر مكاني",
+	"Connect Makane Store": "ربط متجر مكاني",
+	"Shop": "متجر",
+	"Shopify Store": "متجر شوبيفاي",
+	"Shop url is required": "رابط المتجر حقل إلزامي",
+	"Blog": "المدونة",
+	"Paymes": "Paymes",
+	"PAYMES": "PAYMES",
+	"Connect Paymes": "Connect Paymes",
+	"Paymes Store": "متجر بايمس",
+	"Connect Paymes Store": "ربط متجر بايمس",
+	"Bubble": "Bubble",
+	"BUBBLE": "BUBBLE",
+	"Connect Bubble": "ربط Bubble",
+	"Bubble Store": "تفعيل Bubble",
+	"Connect Bubble Store": "تفعيل Bubble",
+	"Team User": "مستخدم إضافي",
+	"Create New Team User": "إنشاء مستخدم جديد",
+	"Edit Team User": "تعديل بيانات المستخدم",
+	"Select All": "تحديد الكل",
+	"Create": "إنشاء",
+	"Team user added successfully": "تم إنشاء المستخدم بنجاح",
+	"Team user updated successfully": "تم تحديث بيانات المستخدم بنجاح",
+	"Team user deleted successfully": "تمت إزالة المستخدم بنجاح",
+	"Reverse Shipment": "شحنة عكسية",
+	"Reverse": "مرتجع",
+	"Straight": "Straight",
+	"No Team users Found": "لا يوجد مستخدمين فرعيين",
+	"Allow Ship with the Carriers": "السماح بإنشاء أوامر شحن",
+	"Jiff Tech": "جيف للتقنية",
+	"JIFF TECH": "جيف للتقنية",
+	"Connect Jiff Tech": "ربط جيف",
+	"Jiff Tech Store": "متجر جيف",
+	"Connect Jiff Tech Store": "ربط متجر جيف",
+	"Fill in your mobile number. OTP will be sent to verify the added mobile number": "ادخل رقم الجوال الذي استخدم أثناء عملية الشراء . ستصلك رسالة تأكيد على نفس الجوال",
+	"OTP": "رمز التحقق",
+	"Start your return": "استرجاع واستبدال المشتريات",
+	"Please enter valid OTP": "أدخل رمز التحقق الصحيح",
+	"Return Order": "إرجاع طلب",
+	"Product name": "اسم المنتج",
+	"Return quantity": "الكمية المراد إرجاعها",
+	"Back to order page": "العودة لصفحة الطلبات",
+	"Submit Request": "إرسال طلب الإرجاع",
+	"The product is already return": "تمت إعادة هذا المنتج مسبقاً",
+	"Please login": "تسجيل الدخول",
+	"Select item to return": "اختيار المنتج للإرجاع",
+	"Search order": "البحث عن طلب",
+	"Return Request": "طلب إسترجاع",
+	"Return Portal": "صفحة الإسترجاع",
+	"Incoming return": "طلب جديد",
+	"Approved": "طلبات الرجيع المعتمدة",
+	"Cancel return": "إلغاء الإسترجاع",
+	"Request ID": "رقم الطلب",
+	"Return Items": "المنتجات التي ترغب بإعادتها",
+	"Return Reasons": "أسباب الإسترجاع",
+	"Return to": "إرجاع إلى",
+	"Refund Method": "طريقة إسترداد المدفوعات",
+	"Return Address": "عنوان الإسترجاع",
+	"Accept": "قبول",
+	"Reject": "رفض",
+	"View": "عرض",
+	"Activate return portal": "تفعيل صفحة الإسترجاع",
+	"Preview return page": "مراجعة صفحة الاسترجاع",
+	"Change page logo & colors from": "تخصيص شعار الصفحة والألوان من",
+	"Company / Brand": "علامتي",
+	"Return portal URL": "رابط صفحة الإسترجاع",
+	"You don't have a return address configured yet.": "ليس لديك عنوان إسترجاع مدخل أنش",
+	"Create additional": "أنشئ عنوان استرجاع",
+	"return addresses before activating your return portal.": "قبل تنشيط بوابة الإسترجاع الخاصة بك",
+	"Select address": "إختر عنوان",
+	"Return Policy": "سياسة الإسترجاع",
+	"An optional link to your own site where the return procedure is further detailed.": "رابط اختياري لسياسة الإسترجاع والإستبدال تمكن عملاؤك من الحصول على تفاصيل أكثر.",
+	"Email Notification": "إشعارات البريد الـإلكتروني",
+	"Select an email address to which you will receive a notification when your customer initiates a return": "حدد عنوان بريد إلكتروني ستتلقى إشعارًا به عندما يبدأ عميلك في الإسترجاع",
+	"Select email address": "إختر البريد الإلكتروني",
+	"Maximum number of days for return": "المدة القصوى للإسترجاع بالأيام",
+	"The number of days within which the user is allowed to initiate a return, after parcel was delivered": "عدد الأيام التي يُسمح فيها للمستخدم ببدء عملية الإرجاع بعد تسليم الطرد",
+	"Return Fee": "رسوم الاسترجاع",
+	"Any extra fees will be paid by customer": "أي رسوم إضافية يجب أن يتحملها العميل مقابل إرجاع المنتجات",
+	"Return reasons which your customer will be able to choose": "قم بتحديد أسباب الإرجاع التي ترغب بإتاحتها لعملائك",
+	"Available channel for the return": "طريقة إعادة المنتج للتاجر",
+	"Available return method": "آلية إسترداد قيمة المنتجات",
+	"Return portal details save successfully": "تم حفظ اعدادات بوابة المرتجعات بنجاح",
+	"Status updated successfully": "تم تحديث حالة الطلب",
+	"LogesTechs": "لوجستكس",
+	"LOGESTECHS": "لوجستكس",
+	"Connect LogesTechs": "ربط لوجستكس",
+	"LogesTechs Store": "لوجستكس",
+	"Connect LogesTechs Store": "ربط لوجستكس لإدارة المخازن",
+	"Return Reason": "سبب الإرجاع",
+	"Packages": "لطرود",
+	"New Template +": "الب جديد  +",
+	"Save Template": "حفظ القالب",
+	"Set as default package template for label purchase": "تعيين كقالب طرد افتراضي لشراء بوليصة الشحن",
+	"Your Package Name": "إسم الطرد الخاص بك",
+	"New Package Template": "قالب لطرد جديد",
+	"Package Templates": "إضافة طرد جديد",
+	"Edit Package Template": "تعديل قالب الطرد",
+	"Delete Template": "حذف القالب",
+	"Save packages you use most often to speed up your label purchase process.": "احفظ الطرود التي تستخدمها في أغلب الأحيان لتسريع عملية شراء بوليصات الشحن",
+	"Enter Package Name": "أدخل اسم الطرد الخاص بك",
+	"Order package updated successfully": "تم تحديث بيانات الطرد بنجاح",
+	"Return request status updated successfully": "تم تحديث حالة طلب الإرجاع بنجاح",
+	"Problem when return request status update": "حدث خلل",
+	"Print Label": "إصدار بوليصة",
+	"No data found": "لا توجد بيانات",
+	"No packages found": "لا توجد طرود",
+	"The package name has already been taken.": "هذا المسمى مستخدم سابقا",
+	"Add new package": "إضافة طرد جديد",
+	"Edit package": "تعديل بيانات الطرد",
+	"Order edit package": "تعديل الطرد",
+	"OpenCart": "OpenCart",
+	"OPENCART": "OPENCART",
+	"Connect OpenCart": "ربط متجر أوبن كارت",
+	"OpenCart Store": "متجر أوبن كارت",
+	"Connect OpenCart Store": "ربط متجر أوبن كارت",
+	"Accepted": "تم قبول طلب الإرجاع",
+	"Return": "Return",
+	"Fizzpa": "فزبا",
+	"FIZZPA": "فزبا",
+	"Connect Fizzpa": "الربط مع فزبا",
+	"Fizzpa Store": "نظام فزبا",
+	"Connect Fizzpa Store": "الربط مع نظام فزبا",
+	"Not Available": "لا يوجد",
+	"Select Date": "اختر التاريخ",
+	"Select Time": "اختر الوقت",
+	"Select Trip": "اختر الرحلة",
+	"must have Length Width and Height": "يجب ادخال الأبعاد، الطول والعرض والإرتفاع",
+	"Filter by Shipping Option": "خيار الشحن",
+	"Team Members": "أعضاء المجموعة",
+	"Groups": "المجموعات",
+	"Group": "مجموعة",
+	"Select Group": "اختر مجموعة",
+	"Custom": "تخصيص",
+	"Create New Group": "انشاء مجموعة جديدة",
+	"Create Group": "أنشئ مجموعة",
+	"Edit Group": "الطرد مجموعة",
+	"Group name": "اسم المجموعة",
+	"Group created successfully": "تم انشاء المجموعة بنجاح",
+	"Group updated successfully": "تم تحديث المجموعة بنجاح",
+	"Group deleted successfully": "تم حذف المجموعة بنجاح",
+	"Labels Configuration": "تخصيص البوالص",
+	"Label Configuration Updated Successfully": "تم التحديث بنجاح",
+	"Auto print order summary after each shipping label": "طباعة ملخص الطلب بعد كل بوليصة شحن آليا",
+	"No group Found": "لا توجد مجموعات عمل",
+	"Bulk Action": "تعديل الكل",
+	"Bulk Package Info": "تعديل أبعاد كافة الطلبات المحددة",
+	"Upload type is not valid": "نوع الملف المرفق غير صحيح",
+	"Paste data not match!": "المعلومات المدخلة خاطئة",
+	"XLSX not match!": "الملف المرفق بصيغة خاطئة",
+	"Please upload CSV or xlsx files only!": "يجب رفع ملف بصيغة اكسل فقط",
+	"Default": "الأساسي",
+	"The Access Group": "The Access Group",
+	"Comment": "في حال الاستبدال - ماهو المنتج البديل المرغوب يمكنك إضافة رابط أو رقم المنتج أو وصف المنتج والمقاس إن وجد",
+	"Assign Pickup Locations": "حدد موقع الالتقاط",
+	"Which Order Status Do you want to sync to %PlatForm%?": "ماهي الحالات التي ترغب بمزامنتها من متجرك إلى %PlatForm%؟",
+	"In Progress": "قيد المعالجة",
+	"Delivering": "قيد التوصيل",
+	"Payment Pending": "بانتظار السداد",
+	"Under Review": "قيد المراجعة",
+	"Restored": "تم الاسترجاع",
+	"Restoring": "جاري الاسترجاع",
+	"Canceled": "ملغي",
+	"In Delivery": "قيد التوصيل",
+	"Store Sync Preferences": "تفضيلات المزامنة",
+	"No Notifications": "لا توجد تنبيهات",
+	"Select Assign Pickup Locations": "اختر عناوين الإلتقاط الخاصة بهذا المتجر",
+	"Order id is required": "رقم الطلب حقل مطلوب",
+	"Order number is required": "رقم الطلب حقل مطلوب",
+	"Order date is required": "يجب ادخال تاريخ الطلب",
+	"First name is required": "يجب ادخال الاسم الاول",
+	"Last name is required": "يجب ادخال الاسم الاخير",
+	"Address 1 is required": "يجب ادخال عنوان ١",
+	"Town is required": "يجب ادخال المدينة",
+	"Phone or Mobile is required": "يجب ادخال رقم الهاتف",
+	"Email is required": "يجب ادخال البريد الالكتروني",
+	"Country is required": "يجب ادخال الدولة",
+	"Order status is required": "يجب ادخال حالة الطلب",
+	"Number of parcels is required": "عدد الصناديق مطلوب",
+	"Total items is required": "عدد الاصناف حقل إلزامي",
+	"Total weight is required": "اجمالي الوزن حقل إلزامي",
+	"Order value is required": "قيمة الطلب حقل إلزامي",
+	"Channel is required": "قناة الطلب حقل إلزامي",
+	"Order items is required": "يجب ادخال أصناف الطلب",
+	"City is required": "المدينة حقل إلزامي",
+	"Payment method is required": "يجب ادخال طريقة السداد",
+	"Address is required": "يجب ادخال العنوان",
+	"Items list is required": "يجب ادخال اصناف الطلب",
+	"Order reference code is required": "الرقم المرجعي للطلب حقل الزامي",
+	"City not found": "المدينة غير صحيحة",
+	"Phone or Mobile is not valid": "رقم الجوال غير",
+	"Invoicing Information": "معلومات الفوترة",
+	"First Name Arabic": "الإسم الأول باللغة العربية",
+	"Last Name Arabic": "الإسم الأخير باللغة العربية",
+	"First Name English": "الإسم الأول باللغةالإنجليزية",
+	"Last Name English": "الإسم الأخير باللغةالإنجليزية",
+	"Contact Person Information": "بيانات مسؤول الحساب",
+	"Business Information": "بيانات النشاط التجاري",
+	"Individual": "شخصي",
+	"Freelancer": "وثيقة عمل حر",
+	"Company Name Arabic": "إسم الشركة باللغة العربية",
+	"Company Name English": "إسم الشركة باللغة الإنجليزية",
+	"Website": "الموقع الإلكتروني",
+	"VAT/TAX ID": "الرقم الضريبي",
+	"Commercial Registration Number": "رقم السجل التجاري",
+	"Address Street 1 Ar": "العنوان١ بالعربية",
+	"Address Street 2 Ar": "العنوان٢ بالعربية",
+	"Address Street 1 En": "العنوان١ بالإنجليزية",
+	"Address Street 2 En": "عنوان٢ بالإنجليزية",
+	"City Ar": "المدينة بالعربية",
+	"City En": "المدينة",
+	"State/Region Ar": "المحافظة بالعربية\\المنطق",
+	"State/Region En": "المنطقة الإدارية",
+	"Zip/Postal Code": "الرمز البريدي",
+	"Profile Form": "البيانات الشخصية",
+	"Address Information": "بيانات العنوان",
+	"Account Type": "نوع الحساب",
+	"Select an account type": "اختر نوع الحساب",
+	"Profile form saved successfully": "تم حفظ المعلومات بنجاح",
+	"Next": "التالي",
+	"Embed Code": "Embed Code",
+	"Manafeth": "منافذ",
+	"MANAFETH": "منافذ",
+	"Connect Manafeth": "الربط مع منافذ",
+	"Manafeth Store": "متجر منافذ",
+	"Connect Manafeth Store": "ربط متجر منافذ",
+	"Weight is not valid. Please enter valid weight": "الوزن غير صحيح. يجب تحديث الوزن",
+	"No. of Boxes is not valid. Please enter valid No. of Boxes": "عدد الصناديق غير صحيح. يجب ادخال عدد صناديق صحيح",
+	"Review Brand Design": "تخصيص العلامة التجارية",
+	"Configure URL & Embed Code": "رابط صفحة الرجيع",
+	"Policy Configuration": "سياسة الإرجاع",
+	"Return Preferences": "الاعدادات",
+	"No Orders message": "الرسالة في حالة عدم وجود طلبات لهذا العميل",
+	"What is the message that you would like to display to your customers in case they don't have any orders eligible for return?": "ماهي الرسالة التي ترغب بعرضها للعميل في حين عدم وجود أي طلبات قابلة للإرجاع وفق سياسة المرتجعات الخاصة بكم",
+	"(PlatForm) Default Message": "رسالة (PlatForm) الإفتراضية",
+	"Custom Message": "رسالة مخصصة",
+	"Thank you Message": "رسالة الشكر",
+	"What message would you like to display to your customers upon submitting their return order?": "ماهي الرسالة التي ترغب بعرضها للعميل بعد إتمامه لطلب الإرجاع؟ مثال سيتم مراجعة طلبكم خلال ٢٤ ساعة",
+	"Communication Preferences": "تفضيلات التواصل",
+	"Enter english message": "أدخل النص الإنجليزي",
+	"Enter arabic message": "أدخل النص العربي",
+	"Distance between Pickup and Dropoff location must be within": "يجب أن لا تتجاوز المسافة كيلو متر بين نقطة الإلتقاط والتسليم",
+	"Order date format is not valid": "تاريخ الطلب بصيغة غير صحيحة",
+	"AiTech": "AiTech",
+	"AITECH": "AITECH",
+	"Connect AiTech": "AiTech ربط",
+	"AiTech Store": "AiTech متجر",
+	"Connect AiTech Store": "AiTech ربط متجر",
+	"Please select email address": "اختر البريد الإلكتروني",
+	"Please enter return policy": "أدخل سياسة الإرجاع",
+	"Please enter number of days": "أدخل عدد الأيام",
+	"Please enter return fees": "ادخل رسوم الإرجاع",
+	"Note": "ملاحظة",
+	"This link will work after submitting the form": "هذا الرابط سوف يعمل بعد رفعك للنموذج",
+	"Order Return": "Order Return",
+	"Your return request of order %hash% %orderId% has been processed": "تمت معالجة طلب الإرجاع رقم %hash% %orderId%",
+	"Attached to you is the shipping label. The shipping company (%shipperName%) will be in touch with you to pick up the items from you and returns them back to the store.": "مرفق إليكم بوليصة الشحن مع (%shipperName%)، حيث سيتم التواصل معك لإلتقاط الشحنة وإعادتها للمتجر. في هذه الأثناء نأمل منك طباعة بوليصة الشحن وتغليف الطرد بشكل آمن.",
+	"Ensure to print the shipping label, and pack the items carefully.": "مع الشكر والتقدير",
+	"Thank you for doing business with us!": "شكرا لثقتكم بنا",
+	"Your shipment order is on its way": "طلبك في الطريق",
+	"The package is being shipped via %PlatForm% to the following address": "عنوان التوصيل",
+	"Your tracking number is": "رقم التتبع",
+	"You can track your shipment on this page": "يمكنك تتبع الشحنة عبر هذه الصفحة",
+	"Shipment notification sent successfully (ORDER ID %orderId%)": "تم إرسال البريد الإلكتروني بنجاح للطلب رقم %orderId%",
+	"Please add at least 1 active address with %CityName% city.": "يرجى إضافة عنوان واحد على الأقل مرتبط بمدينة %CityName%",
+	"Transaction Successful": "تمت العملية بنجاح",
+	"Bank Rejections": "رفض من البنك",
+	"System Error. Please contact System Admin": "خلل في النظام، يرجى التواصل مع مدير النظام",
+	"Request authentication failed": "فشل التحقق",
+	"Error while processing ApplePay payment Token request": "خلل عند معالجة طلب باستخدام مدفوعات أبل. يرجى التجربة باستخدام بطاقة أخرى",
+	"Invalid Card Token": "خطأ في التحقق من صحة معلومات البطاقة المستخدمة",
+	"Pick-up is not available!": "لا توجد خدمة الإلتقاط",
+	"Please ensure that both, customer and pickup address are updated": "يرجى التحقق من تحديث بيانات عنوان المرسل والمستلم",
+	"Omniful": "أومنيفل",
+	"OMNIFUL": "أومنيفل",
+	"Connect Omniful": "ربط أومنيفل",
+	"Omniful Store": "متجر أومنيفل",
+	"Connect Omniful Store": "ربط متجر أومنيفل",
+	"Filter by Shipment Creation Date": "فرز حسب تاريخ إنشاء الشحنة",
+	"Filter by Shipment Latest Update Date": "فرز حسب آخر تحديث لحالة الشحنة",
+	"Manage Stores": "إدارة المتاجر المرتبطة",
+	"I Agree": "أوافق",
+	"Please take a moment to review and accept the Terms and conditions before proceeding.": "يرجى أخذ لحظات لمراجعة وقبول الشروط والأحكام",
+	"I have read, understood, and agree to the Terms and conditions": "لقد قرأت وفهمت وأوافق على الشروط والأحكام",
+	"Terms and conditions": "الشروط والأحكام",
+	"Create label for all orders": "طباعة بوالص لكافة الطلبات",
+	"Custom City Mapping": "إضافة مدن مخصصة",
+	"Please add your cities with our city mapping.": "يرجى إضافة المدن التي ترغب بإضافتها للقائمة",
+	"City Name": "إسم المدينة",
+	"Problem when submitting your details!": "حدث خلل. يرجى اعادة المحاولة",
+	"Please select a City": "يرجى اختيار المدينة",
+	"City name already exist!": "هذه المدينة موجودة مسبقًا",
+	"Problem when fetch details!": "حدث خلل أثناء مزامنة البيانات",
+	"City Mapped With": "المدينة المرتبطة بها",
+	"Add custom city mapping": "إضافة اسم مدينة مخصص",
+	"Edit custom city mapping": "تعديل اسم مدينة مخصص",
+	"Delete custom city mapping": "حذف إسم مدينة مخصص",
+	"Card Transaction": "الدفع الإلكتروني",
+	"Verify Transaction": "التحقق من العملية",
+	"Please wait until we verify your payment": "يرجى عدم إغلاق الصفحة حتى إكتمال عملية السداد",
+	"Please contact to %PlatForm% support. To complete your transaction!": "Please contact to %PlatForm% support. To complete your transaction!",
+	"Merchant Wallet Charge": "شحن رصيد محفظة التاجر",
+	"would like you to grant permission for the following information about you": "منح التصاريح",
+	"Access to your email address (read)": "عنوان بريدك الإلكتروني",
+	"Access to your basic profile information (read)": "المعلومات العامة",
+	"Permission to read and retrieve order information from your store for order processing (read)": "تفاصيل الطلب",
+	"Permission to read and retrieve customer information from your store (read)": "عنوان العميل",
+	"Permission to read and retrieve product information from your store (read)": "بيانات الأصناف",
+	"Permission to create, update, or modify order data in your store (write)": "تحديث حالة الطلب",
+	"To allow this access, click the button below.": "للسماح بمنح الصلاحيات انقر على زر",
+	"Allow": "منح الصلاحيات",
+	"Deny": "رفض",
+	"Are you sure you want to change your email to %email% ?": "هل أنت متأكد من رغبتك في تغيير بريدك الإلكتروني إلى  %email% ؟",
+	"Please note that you won't be able to log in with %email% anymore": "يرجى ملاحظة أنك لن تتمكن من تسجيل الدخول باستخدام %email% بعد الآن.",
+	"Change": "تغيير",
+	"Please verify your account by clicking on the link that sent to your Email.": "يرجى الضغط على الرابط المرسل لبريدكم الإلكتروني لتفعيل الحساب",
+	"Please enter a valid phone number.": "الرجاء إدخال رقم جوال صحيح.",
+	"There is no data available for export.": "لا توجد بيانات متاحة للتصدير.",
+	"Are you sure you want to transfer the amount to the Wallet? Please note that this action cannot be undone.": "هل أنت متأكد أنك تريد تحويل المبلغ إلى المحفظة؟ يرجى ملاحظة أن هذا الإجراء لا يمكن التراجع عنه.",
+	"Transfer": "تحويل",
+	"Please create another shipment. the maximum number of boxes in one shipment is 10.": "يرجى إنشاء بوليصة أخرى بحد أقصى 10 صناديق في البوليصة الواحدة .",
+	"Address information updated successfully.": "تم تحديث معلومات العنوان بنجاح",
+	"Customer information updated successfully.": "تم تحديث معلومات العميل بنجاح",
+	"Product Name": "الاسم المنتج",
+	"Please enter promo code": "الرجاء إدخال رمز ترويجي"
+  }
