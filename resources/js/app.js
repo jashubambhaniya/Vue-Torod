@@ -8,6 +8,8 @@ import router from './router'
 import i18n from './i18n'
 import VueProgressBar from "@aacassandra/vue3-progressbar";
 import store from '@/store'
+import VueSweetalert2 from 'vue-sweetalert2';
+import 'sweetalert2/dist/sweetalert2.min.css';
 const options = {
 	color: "#6702f9",
 	failedColor: "#874b4b",
@@ -17,7 +19,7 @@ const options = {
 	  opacity: "0.6s",
 	  termination: 300,
 	},
-	autoRevert: true,
+	autoRevert: false,
 	location: "top",
 	inverse: false,
 };
@@ -26,4 +28,5 @@ app.use(VueProgressBar, options)
 app.use(router)
 app.use(store)
 app.use(i18n)
+app.use(VueSweetalert2)
 app.mount('#app')
