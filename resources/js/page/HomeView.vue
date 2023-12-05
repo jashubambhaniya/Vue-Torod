@@ -22,7 +22,7 @@ import Header from '../components/layouts/Header.vue';
 					</div>
 					<div class="col-md-6">
 						<div class="box-images">
-							<img src="../../../public/assets/image/torod-ar.gif" class="img_02" data-aos="fade-left"
+							<img src="../../../assets/image/torod-en.gif" class="img_02" data-aos="fade-left"
 								data-aos-delay="100" style="width: 100%;">
 						</div>
 					</div>
@@ -46,7 +46,7 @@ import Header from '../components/layouts/Header.vue';
 				<div class="col-12 col-lg-12 col-md-12 col-sm-12 text-center">
 					<div class="howitwork">
 						<div class="col_01 col_css ani">
-							<img src="../../../public/assets/image/ecomerce.png" data-aos="fade-fadein"
+							<img src="../../../assets/image/ecomerce.png" data-aos="fade-fadein"
 								data-aos-delay="100">
 							<br>
 							<div class="text_how">
@@ -56,21 +56,21 @@ import Header from '../components/layouts/Header.vue';
 						<div class="col_02 col_css">
 							<span> {{ $t("Choose Shipper") }} </span>
 							<div class="arrow">
-								<img src="../../../public/assets/image/arrow.png">
+								<img src="../../../assets/image/arrow.png">
 							</div>
 						</div>
 						<div class="col_01 col_css ani">
-							<img src="../../../public/assets/image/icon-logo.png" data-aos="fade-fadein"
+							<img src="../../../assets/image/icon-logo.png" data-aos="fade-fadein"
 								data-aos-delay="100">
 						</div>
 						<div class="col_02 col_css">
 							<span>{{ $t("Track Your Shipment") }}</span>
 							<div class="arrow">
-								<img src="../../../public/assets/image/arrow-01.png">
+								<img src="../../../assets/image/arrow-01.png">
 							</div>
 						</div>
 						<div class="col_01 col_css ani">
-							<img src="../../../public/assets/image/customer.png" data-aos="fade-fadein"
+							<img src="../../../assets/image/customer.png" data-aos="fade-fadein"
 								data-aos-delay="100">
 						</div>
 					</div>
@@ -87,7 +87,7 @@ import Header from '../components/layouts/Header.vue';
 			<div class="row">
 				<div class="col-12 col-lg-6 col-md-6 col-sm-12 text-right">
 					<div class="lap_bg" data-aos="fade-up" data-aos-delay="100">
-						<img src="../../../public/assets/image/lap-bg.png">
+						<img src="../../../assets/image/lap-bg.png">
 					</div>
 				</div>
 				<div class="col-12 col-lg-6 col-md-6 col-sm-12">
@@ -97,26 +97,26 @@ import Header from '../components/layouts/Header.vue';
 					<div>
 						<ul class="ul_lap">
 							<li data-aos="fade-up" data-aos-delay="100">
-								<img src="../../../public/assets/image/icon-logo.png"> <span> {{ $t("Connect with multiple shipping delivery services.") }}</span>
+								<img src="../../../assets/image/icon-logo.png"> <span> {{ $t("Connect with multiple shipping delivery services.") }}</span>
 							</li>
 							<li data-aos="fade-up" data-aos-delay="100">
-								<img src="../../../public/assets/image/icon-logo.png"> <span> {{ $t("Single Integration.") }}</span>
+								<img src="../../../assets/image/icon-logo.png"> <span> {{ $t("Single Integration.") }}</span>
 							</li>
 							<li data-aos="fade-up" data-aos-delay="100">
-								<img src="../../../public/assets/image/icon-logo.png"> <span>{{ $t("Enable ship from store operations.") }}</span>
+								<img src="../../../assets/image/icon-logo.png"> <span>{{ $t("Enable ship from store operations.") }}</span>
 							</li>
 							<li data-aos="fade-up" data-aos-delay="100">
-								<img src="../../../public/assets/image/icon-logo.png"> <span> {{ $t("Automate your operations with easy shipping.") }}</span>
+								<img src="../../../assets/image/icon-logo.png"> <span> {{ $t("Automate your operations with easy shipping.") }}</span>
 							</li>
 							<li data-aos="fade-up" data-aos-delay="100">
-								<img src="../../../public/assets/image/icon-logo.png"> <span>{{ $t("Access multiple same day delivery options.") }}
+								<img src="../../../assets/image/icon-logo.png"> <span>{{ $t("Access multiple same day delivery options.") }}
 									 </span>
 							</li>
 							<li data-aos="fade-up" data-aos-delay="100"> <img
-									src="../../../public/assets/image/icon-logo.png"> <span> {{ $t("Track all your shipping expenses in one place.") }}   
+									src="../../../assets/image/icon-logo.png"> <span> {{ $t("Track all your shipping expenses in one place.") }}   
 									</span></li>
 							<li data-aos="fade-up" data-aos-delay="100"> <img
-									src="../../../public/assets/image/icon-logo.png"> <span> {{ $t("Enhance your parcel real-time tracking.") }}
+									src="../../../assets/image/icon-logo.png"> <span> {{ $t("Enhance your parcel real-time tracking.") }}
 								</span></li>
 						</ul>
 					</div>
@@ -125,7 +125,7 @@ import Header from '../components/layouts/Header.vue';
 		</div>
 	</section>
 	<section class="ptop-80 pbm-50  new_section"
-		style="position: relative; background-image: url(/image/back_bg.png);background-repeat: no-repeat;background-position: center;background-attachment: fixed;background-size: contain;">
+		style="position: relative; background-image: url(../../../assets/image/back_bg.png);background-repeat: no-repeat;background-position: center;background-attachment: fixed;background-size: contain;">
 		<div class="container ">
 			<div class="row">
 				<div class="col-12 col-lg-12 col-md-12 col-sm-12 text-center">
@@ -140,25 +140,25 @@ import Header from '../components/layouts/Header.vue';
 					<h4 class="css_head" data-aos="fade-up" data-aos-delay="100"> {{ $t("Online Store") }} </h4>
 					<ul class="left_images">
 						<li data-aos="fade-up" data-aos-delay="100">
-							<img src="../../../public/assets/image/logo-left01.jpg">
+							<img src="../../../assets/image/logo-left01.jpg">
 						</li>
 						<li data-aos="fade-up" data-aos-delay="100">
-							<img src="../../../public/assets/image/logo-left02.jpg">
+							<img src="../../../assets/image/logo-left02.jpg">
 						</li>
 						<li data-aos="fade-up" data-aos-delay="100">
-							<img src="../../../public/assets/image/logo-left03.jpg">
+							<img src="../../../assets/image/logo-left03.jpg">
 						</li>
 						<li data-aos="fade-up" data-aos-delay="100">
-							<img src="../../../public/assets/image/logo-left04.jpg">
+							<img src="../../../assets/image/logo-left04.jpg">
 						</li>
 						<li data-aos="fade-up" data-aos-delay="100">
-							<img src="../../../public/assets/image/logo-left05.jpg">
+							<img src="../../../assets/image/logo-left05.jpg">
 						</li>
 					</ul>
 				</div>
 				<div class="col-12 col-lg-4 col-md-4 col-sm-12">
 					<div class="ct-banner-inner" data-aos="fade-down" data-aos-delay="100">
-						<img width="100%" height="auto" src="../../../public/assets/image/phone-2.png"
+						<img width="100%" height="auto" src="../../../assets/image/phone-2.png"
 							class="ct-banner-image1 attachment-full" alt="">
 					</div>
 				</div>
@@ -166,19 +166,19 @@ import Header from '../components/layouts/Header.vue';
 					<h4 class="css_head" data-aos="fade-up" data-aos-delay="100">{{ $t("Shippers") }} </h4>
 					<ul class="right_images">
 						<li data-aos="fade-up" data-aos-delay="100">
-							<img src="../../../public/assets/image/logo-right01.jpg">
+							<img src="../../../assets/image/logo-right01.jpg">
 						</li>
 						<li data-aos="fade-up" data-aos-delay="100">
-							<img src="../../../public/assets/image/logo-right02.jpg">
+							<img src="../../../assets/image/logo-right02.jpg">
 						</li>
 						<li data-aos="fade-up" data-aos-delay="100">
-							<img src="../../../public/assets/image/logo-right03.jpg">
+							<img src="../../../assets/image/logo-right03.jpg">
 					</li>
 					<li data-aos="fade-up" data-aos-delay="100">
-						<img src="../../../public/assets/image/logo-right04.jpg">
+						<img src="../../../assets/image/logo-right04.jpg">
 					</li>
 					<li data-aos="fade-up" data-aos-delay="100">
-						<img src="../../../public/assets/image/logo-right05.jpg">
+						<img src="../../../assets/image/logo-right05.jpg">
 					</li>
 				</ul>
 			</div>

@@ -4,7 +4,7 @@
 		<div class="content">
 			<div>
 				<RouterLink :to="Tr.i18nRoute({ name: 'home' })" class="user mr-2">
-					<img src="../../../public/assets/image/logo.png" alt="LOGO" width="180">	
+					<img src="../../../assets/image/logo.png" alt="LOGO" width="180">	
 				</RouterLink>
 			</div>
 			<br>

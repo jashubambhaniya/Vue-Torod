@@ -1,8 +1,6 @@
 {
-	"locale": {
-		"en": "English",
-		"ar": "العربية"
-	},
+	"en": "English",
+	"ar": "العربية",
 	"Home": "الرئيسية",
 	"Pricing": "الأسعار",
 	"Partners": "الشركاء",

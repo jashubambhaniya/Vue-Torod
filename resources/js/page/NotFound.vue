@@ -3,7 +3,7 @@
 	<div class="flex-col-c-m p-l-15 p-r-15 p-t-80 p-b-90">
 		<div class="content">
 			<div>
-				<a href="index-en.php"><img src="../../../public/assets/image/logo.png" alt="LOGO" width="180"></a>
+				<a href="index-en.php"><img src="../../../assets/image/logo.png" alt="LOGO" width="180"></a>
 			</div>
 			<br>
 			<form class="form" action="dashboard.php" id="form">

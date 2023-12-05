@@ -16,7 +16,6 @@
       <link rel="stylesheet" type="text/css" href="css/animate.css">
       <link rel="stylesheet" type="text/css" href="css/style-en.css">
       <link rel="stylesheet" type="text/css" href="css/dashboard.css">
-      <link rel="stylesheet" type="text/css" href="css/aos.css">
       <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.css" />
       <!--   <style type="text/css">
          #loading {
